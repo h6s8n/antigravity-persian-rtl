@@ -1,0 +1,55 @@
+{
+  "name": "antigravity-persian-rtl",
+  "displayName": "Antigravity Persian & Arabic RTL (راست‌چین و فونت وزیرمتن)",
+  "description": "راست‌چین‌سازی خودکار چت Antigravity IDE به همراه فونت وزیرمتن (Vazirmatn) بدون ارور Corrupt — فقط نصب کنید و یک بار Reload Window بزنید!",
+  "version": "1.0.0",
+  "publisher": "h6s8n",
+  "author": {
+    "name": "Hasan Momeni",
+    "url": "https://github.com/h6s8n"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h6s8n/antigravity-persian-rtl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h6s8n/antigravity-persian-rtl/issues"
+  },
+  "homepage": "https://github.com/h6s8n/antigravity-persian-rtl#readme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Appearance",
+    "Chat",
+    "Other"
+  ],
+  "keywords": [
+    "antigravity",
+    "rtl",
+    "persian",
+    "farsi",
+    "arabic",
+    "hebrew",
+    "chat",
+    "vazirmatn",
+    "google-antigravity"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "antigravityPersianRtl.enable",
+        "title": "Antigravity RTL: فعال‌سازی مجدد راست‌چین (Enable RTL)"
+      },
+      {
+        "command": "antigravityPersianRtl.disable",
+        "title": "Antigravity RTL: غیرفعال‌سازی و بازگشت به حالت اولیه (Disable RTL)"
+      }
+    ]
+  }
+}

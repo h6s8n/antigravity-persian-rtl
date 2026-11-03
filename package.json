@@ -2,11 +2,12 @@
   "name": "antigravity-persian-rtl",
   "displayName": "Antigravity Persian & Arabic RTL (راست چین و فونت وزیرمتن)",
   "description": "راست چین سازی خودکار چت Antigravity IDE به همراه فونت وزیرمتن (Vazirmatn) بدون ارور Corrupt - فقط نصب کنید و یک بار Reload Window بزنید!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "h6s8n",
+  "icon": "icon.png",
   "author": {
-    "name": "Hasan Momeni",
-    "url": "https://github.com/h6s8n"
+    "name": "Hasan Momeni (CodeBiCode)",
+    "url": "https://www.youtube.com/@codebicode"
   },
   "license": "MIT",
   "repository": {

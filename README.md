@@ -34,6 +34,16 @@
 
 ---
 
+## 📺 ارتباط با سازنده و آموزش‌های ویدیویی (CodeBiCode)
+
+برای آموزش‌های تخصصی هوش مصنوعی، اتوماسیون و ترفندهای پیشرفته **Antigravity IDE** و برنامه‌نویسی، کانال یوتیوب و تلگرام ما را دنبال کنید:
+
+* 🎬 **کانال یوتیوب (CodeBiCode):** [youtube.com/@codebicode](https://www.youtube.com/@codebicode)
+* ✈️ **کانال تلگرام:** [t.me/aicodebcode](https://t.me/aicodebcode)
+* 💻 **سورس‌کد و گیت‌هاب پروژه:** [github.com/h6s8n/antigravity-persian-rtl](https://github.com/h6s8n/antigravity-persian-rtl)
+
+---
+
 ## 📜 سازنده و لایسنس (Credits)
 * **توسعه و بسته‌بندی نسخه Antigravity IDE:** [حسن مومنی (Hasan Momeni - @h6s8n)](https://github.com/h6s8n)
 * الهام‌گرفته از ایده پروکسی محلی در پروژه متن‌باز [njfamirm/vscode-antigravity-rtl](https://github.com/njfamirm/vscode-antigravity-rtl) (تحت لایسنس MIT)، بهینه‌سازی‌شده برای پشتیبانی مستقیم از نسخه مستقل **Google Antigravity IDE**.

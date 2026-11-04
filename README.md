@@ -38,7 +38,7 @@
 
 برای آموزش‌های تخصصی هوش مصنوعی، اتوماسیون و ترفندهای پیشرفته **Antigravity IDE** و برنامه‌نویسی، کانال یوتیوب و تلگرام ما را دنبال کنید:
 
-* 🎬 **کانال یوتیوب (CodeBiCode):** [youtube.com/@codebicode](https://www.youtube.com/@codebicode)
+* 🎬 **کانال یوتیوب (CodeBiCode):** [youtube.com/@fa.codebcode](https://www.youtube.com/@fa.codebcode)
 * ✈️ **کانال تلگرام:** [t.me/aicodebcode](https://t.me/aicodebcode)
 * 💻 **سورس‌کد و گیت‌هاب پروژه:** [github.com/h6s8n/antigravity-persian-rtl](https://github.com/h6s8n/antigravity-persian-rtl)
 
